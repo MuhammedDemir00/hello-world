@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+"von Nichts kommt nichts"
+"ex nihilo nihil fit"
